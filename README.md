@@ -39,6 +39,6 @@ Build a tool that converts currencies using real-time exchange rates. This invol
 To get started with any of these projects, clone this repository and navigate to the respective project directory. Follow the instructions in the project's README to set up and run the application.
 
 ```bash
-git clone https://github.com/rahuls465/go-projects.git
+git clone https://github.com/rahuls465/Golang-practice.git
 cd go-projects
 
